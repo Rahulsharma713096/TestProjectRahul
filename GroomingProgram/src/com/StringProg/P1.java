@@ -15,5 +15,6 @@ public class P1 {
 	        else System.out.println("No");
 	       System.out.print(A.toUpperCase().charAt(0)+A.substring(1,A.length())+" ");
 	       System.out.print(B.toUpperCase().charAt(0)+B.substring(1,B.length()));
-	    }
+	 sc.close();
+	 }
 }
